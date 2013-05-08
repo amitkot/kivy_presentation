@@ -21,3 +21,11 @@
   /*background: #F0F0F0;*/
   /*color: black;*/
 /*}*/
+
+.reveal section img {
+    border: 0;
+}
+
+.reveal code {
+    font-size: 90%;
+}
