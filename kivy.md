@@ -184,6 +184,7 @@ if __name__ == '__main__':
 - IRC - #Kivy on irc.freenode.net
 
 
+
 # Questions
 
 ![Questions](img/q_and_a.jpg)
@@ -193,3 +194,4 @@ if __name__ == '__main__':
 # Thanks!
 
 [Amit Kotlovski](mailto:amit@amitkot.com) / [@amitkot](http://twitter.com/amitkot)
+
